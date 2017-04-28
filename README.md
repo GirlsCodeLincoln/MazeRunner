@@ -3,7 +3,9 @@ A library for controlling a LittleBits Arduino car
 
 I created this for a [Lincoln Girls Who Code](http://lincolngirlswhocode.com) Club. It provides a simple interface to command a programmable car.
 
-## Required Parts
+## The Car
+![Car1](car1.jpg)
+
 A [Steam Student Set](http://littlebits.cc/kits/steam-student-set) contains all the parts necessary to build the car with the addition of an [Arduino Bit](http://littlebits.cc/bits/w6-arduino).
 
 - x1 [Mounting Board](http://littlebits.cc/accessories/mounting-board)
