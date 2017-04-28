@@ -16,7 +16,7 @@ A [Steam Student Set](http://littlebits.cc/kits/steam-student-set) contains all 
 - x2 [Wheel](https://littlebits.cc/accessories/wheel)
 - x1 [Long LED (optional)](http://littlebits.cc/bits/long-led)
 
-For more annoying fun, replace the long LED with a buzzer to make a car horn.
+For more annoying fun, replace the long LED with a [Buzzer](https://littlebits.cc/bits/buzzer) to make a car horn.
 
 ## Available Commands
 
