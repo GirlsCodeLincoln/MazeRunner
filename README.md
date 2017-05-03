@@ -13,7 +13,7 @@ A [Steam Student Set](http://littlebits.cc/kits/steam-student-set) contains all 
 - x1 [Power](http://littlebits.cc/bits/littlebits-power)
 - x1 [Button](http://littlebits.cc/bits/button)
 - x1 [Wire](http://littlebits.cc/bits/wire-bit)
-- x1 [Arduion](http://littlebits.cc/bits/w6-arduino)
+- x1 [Arduino](http://littlebits.cc/bits/w6-arduino)
 - x2 [DC Motor (Tethered)](http://littlebits.cc/bits/dc-motor-tethered)
 - x2 [Wheel](https://littlebits.cc/accessories/wheel)
 - x1 [Long LED (optional)](http://littlebits.cc/bits/long-led)
