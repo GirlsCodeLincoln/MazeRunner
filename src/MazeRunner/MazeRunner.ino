@@ -10,7 +10,6 @@ void go() {
   car.turnRight(800);
   car.forward(2000);
   car.turnLeft(800);
-  car.stop();
 }
 
 void setup() {
@@ -21,6 +20,8 @@ void setup() {
 void loop() {
   if(car.buttonPressed()) {
     go();
+    car.stop();
+    car.lightOff();
   }
 }
 
