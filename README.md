@@ -6,19 +6,19 @@ I created this for a [Lincoln Girls Who Code](http://lincolngirlswhocode.com) Cl
 ## The Car
 ![Car1](car1.jpg)
 
-A [Steam Student Set](http://littlebits.cc/kits/steam-student-set) contains all the parts necessary to build the car with the addition of an [Arduino Bit](http://littlebits.cc/bits/w6-arduino).
+A [Steam Student Set](https://shop.littlebits.cc/products/steam-student-set) contains all the parts necessary to build the car with the addition of an [Arduino Bit](https://shop.littlebits.cc/products/arduino-bit).
 
-- x1 [Mounting Board](http://littlebits.cc/accessories/mounting-board)
-- x1 [Battery + Cable](http://littlebits.cc/accessories/battery-plus-cable)
-- x1 [Power](http://littlebits.cc/bits/littlebits-power)
-- x1 [Button](http://littlebits.cc/bits/button)
-- x1 [Wire](http://littlebits.cc/bits/wire-bit)
-- x1 [Arduino](http://littlebits.cc/bits/w6-arduino)
-- x2 [DC Motor (Tethered)](http://littlebits.cc/bits/dc-motor-tethered)
-- x2 [Wheel](https://littlebits.cc/accessories/wheel)
-- x1 [Long LED (optional)](http://littlebits.cc/bits/long-led)
+- x1 [Mounting Board](https://littlebits.cc/blackboard)
+- x1 [Battery + Cable](https://shop.littlebits.cc/products/battery-plus-cable)
+- x1 [Power](https://shop.littlebits.cc/products/littlebits-power)
+- x1 [Button](https://shop.littlebits.cc/products/button)
+- x1 [Wire](https://shop.littlebits.cc/products/wire-bit)
+- x1 [Arduino](https://shop.littlebits.cc/products/arduino-bit)
+- x2 [DC Motor (Tethered)](https://shop.littlebits.cc/products/dc-motor-tethered)
+- x2 Wheel
+- x1 [Long LED (optional)](https://shop.littlebits.cc/products/long-led)
 
-For more annoying fun, replace the long LED with a [Buzzer](https://littlebits.cc/bits/buzzer) to make a car horn.
+For more annoying fun, replace the long LED with a [Buzzer](https://shop.littlebits.cc/products/buzzer) to make a car horn.
 
 ## Available Commands
 
