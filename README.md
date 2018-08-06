@@ -1,7 +1,7 @@
 # MazeRunner
 A library for controlling a LittleBits Arduino car
 
-I created this for a [Lincoln Girls Who Code](http://lincolngirlswhocode.com) Club. It provides a simple interface to command a programmable car.
+I created this for a [Girls Code Lincoln](https://girlscodelincoln.com) (formerly Lincoln Girls Who Code) Club. It provides a simple interface to command a programmable car.
 
 ## The Car
 ![Car1](car1.jpg)
